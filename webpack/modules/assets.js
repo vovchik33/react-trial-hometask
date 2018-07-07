@@ -43,7 +43,7 @@ export const loadImages = () => ({
 });
 
 export const setupFavicon = () => ({
-    plugins: [new FaviconsWebpackPlugin('./static/icons/favicon.png')],
+    plugins: [new FaviconsWebpackPlugin('./static/favicon/favicon.svg')],
 });
 
 export const setupHtml = () => ({
@@ -51,7 +51,7 @@ export const setupHtml = () => ({
         new HtmlWebpackPlugin({
             inject:   false,
             template: HtmlWebpackTemplate,
-            title:    'React trial hometask',
+            title:    'Воркшоп по React: Резюме',
             meta:     [
                 {
                     name:    'viewport',
