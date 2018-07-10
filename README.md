@@ -62,10 +62,10 @@
 3. Введи в консоли `npm -v` — убедись, что установлена последняя версия npm не ниже `5.6.0`;
 4. [Скачай и установи Git](https://git-scm.com/downloads), если его нет на компьютере;
 5. Введи `git --version` — проверь версию установленного Git, должно быть не ниже `2.18.0`;
-6.  Склонируй и запусти этот проект: `git clone https://github.com/Lectrum/react-trial-hometask.git`;
-7.  После клонирования выполни команду `cd react-trial-hometask`;
-8.  Выполни команду `npm install`;
-9.  Самое время выполнить `npm start`;
+6. Склонируй и запусти этот проект: `git clone https://github.com/Lectrum/react-trial-hometask.git`;
+7. После клонирования выполни команду `cd react-trial-hometask`;
+8. Выполни команду `npm install`;
+9. Самое время выполнить `npm start`;
 10. Перейди в браузер и открой страничку [http://localhost:3000](http://localhost:3000/). Когда страничка загрузится, ты увидишь сообщение:
 
     > «Стартовая точка».
