@@ -4,17 +4,17 @@
   "warnings": [
   ],
   "version": "4.15.1",
-  "hash": "044231798bf9e1d3f9fc",
-  "time": 51068,
-  "builtAt": 1531508737108,
+  "hash": "0d65ac2ba9dcf2dff09b",
+  "time": 44376,
+  "builtAt": 1531509256491,
   "publicPath": "/react-trial-hometask/",
   "outputPath": "/Users/vladimirkravchenko/WebstormProjects/react-trial-hometask/build",
   "assetsByChunkName": {
     "source": [
-      "css/218ecd71fc2c4d3d21dd.04423.css",
-      "js/source.abe6d.js",
-      "css/218ecd71fc2c4d3d21dd.04423.css.map",
-      "js/source.abe6d.js.map"
+      "css/218ecd71fc2c4d3d21dd.0d65a.css",
+      "js/source.bd41b.js",
+      "css/218ecd71fc2c4d3d21dd.0d65a.css.map",
+      "js/source.bd41b.js.map"
     ]
   },
   "assets": [
@@ -28,8 +28,8 @@
       "emitted": true
     },
     {
-      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-167x167.png",
-      "size": 859,
+      "name": "icons-c566bb626c9412aec2582936a79e3196/android-chrome-256x256.png",
+      "size": 1174,
       "chunks": [
       ],
       "chunkNames": [
@@ -37,89 +37,8 @@
       "emitted": true
     },
     {
-      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-57x57.png",
-      "size": 490,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-114x114.png",
-      "size": 679,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-72x72.png",
-      "size": 551,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-144x144.png",
-      "size": 771,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-152x152.png",
-      "size": 824,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-180x180.png",
-      "size": 896,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-precomposed.png",
-      "size": 896,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-60x60.png",
-      "size": 494,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-120x120.png",
-      "size": 667,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-76x76.png",
-      "size": 575,
+      "name": "icons-c566bb626c9412aec2582936a79e3196/android-chrome-192x192.png",
+      "size": 953,
       "chunks": [
       ],
       "chunkNames": [
@@ -145,44 +64,8 @@
       "emitted": true
     },
     {
-      "name": "icons-c566bb626c9412aec2582936a79e3196/android-chrome-192x192.png",
-      "size": 953,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "icons-c566bb626c9412aec2582936a79e3196/android-chrome-256x256.png",
-      "size": 1174,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "icons-c566bb626c9412aec2582936a79e3196/android-chrome-48x48.png",
-      "size": 455,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
       "name": "icons-c566bb626c9412aec2582936a79e3196/android-chrome-72x72.png",
       "size": 551,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "icons-c566bb626c9412aec2582936a79e3196/android-chrome-144x144.png",
-      "size": 771,
       "chunks": [
       ],
       "chunkNames": [
@@ -199,6 +82,15 @@
       "emitted": true
     },
     {
+      "name": "icons-c566bb626c9412aec2582936a79e3196/android-chrome-48x48.png",
+      "size": 455,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
       "name": "icons-c566bb626c9412aec2582936a79e3196/android-chrome-512x512.png",
       "size": 2367,
       "chunks": [
@@ -208,8 +100,8 @@
       "emitted": true
     },
     {
-      "name": "icons-c566bb626c9412aec2582936a79e3196/favicon-16x16.png",
-      "size": 314,
+      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-152x152.png",
+      "size": 824,
       "chunks": [
       ],
       "chunkNames": [
@@ -217,8 +109,71 @@
       "emitted": true
     },
     {
-      "name": "icons-c566bb626c9412aec2582936a79e3196/favicon-32x32.png",
-      "size": 424,
+      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-76x76.png",
+      "size": 575,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-57x57.png",
+      "size": 490,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-precomposed.png",
+      "size": 896,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-144x144.png",
+      "size": 771,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-60x60.png",
+      "size": 494,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-167x167.png",
+      "size": 859,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-120x120.png",
+      "size": 667,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-180x180.png",
+      "size": 896,
       "chunks": [
       ],
       "chunkNames": [
@@ -235,8 +190,44 @@
       "emitted": true
     },
     {
-      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x920.png",
-      "size": 4385,
+      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-72x72.png",
+      "size": 551,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-114x114.png",
+      "size": 679,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "icons-c566bb626c9412aec2582936a79e3196/favicon-32x32.png",
+      "size": 424,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "icons-c566bb626c9412aec2582936a79e3196/favicon-16x16.png",
+      "size": 314,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "icons-c566bb626c9412aec2582936a79e3196/android-chrome-144x144.png",
+      "size": 771,
       "chunks": [
       ],
       "chunkNames": [
@@ -280,8 +271,35 @@
       "emitted": true
     },
     {
+      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x920.png",
+      "size": 4385,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
       "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-768x1004.png",
       "size": 5204,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1496x2048.png",
+      "size": 15923,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1182x2208.png",
+      "size": 14552,
       "chunks": [
       ],
       "chunkNames": [
@@ -307,24 +325,6 @@
       "emitted": true
     },
     {
-      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1182x2208.png",
-      "size": 14552,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1496x2048.png",
-      "size": 15923,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
       "name": "icons-c566bb626c9412aec2582936a79e3196/firefox_app_60x60.png",
       "size": 670,
       "chunks": [
@@ -334,8 +334,8 @@
       "emitted": true
     },
     {
-      "name": "icons-c566bb626c9412aec2582936a79e3196/firefox_app_512x512.png",
-      "size": 4888,
+      "name": "icons-c566bb626c9412aec2582936a79e3196/firefox_app_128x128.png",
+      "size": 1066,
       "chunks": [
       ],
       "chunkNames": [
@@ -343,8 +343,8 @@
       "emitted": true
     },
     {
-      "name": "icons-c566bb626c9412aec2582936a79e3196/firefox_app_128x128.png",
-      "size": 1066,
+      "name": "icons-c566bb626c9412aec2582936a79e3196/firefox_app_512x512.png",
+      "size": 4888,
       "chunks": [
       ],
       "chunkNames": [
@@ -388,7 +388,7 @@
       "emitted": true
     },
     {
-      "name": "css/218ecd71fc2c4d3d21dd.04423.css",
+      "name": "css/218ecd71fc2c4d3d21dd.0d65a.css",
       "size": 4034,
       "chunks": [
         0
@@ -399,8 +399,8 @@
       "emitted": true
     },
     {
-      "name": "js/source.abe6d.js",
-      "size": 112515,
+      "name": "js/source.bd41b.js",
+      "size": 112511,
       "chunks": [
         0
       ],
@@ -410,7 +410,7 @@
       "emitted": true
     },
     {
-      "name": "css/218ecd71fc2c4d3d21dd.04423.css.map",
+      "name": "css/218ecd71fc2c4d3d21dd.0d65a.css.map",
       "size": 8681,
       "chunks": [
         0
@@ -421,8 +421,8 @@
       "emitted": true
     },
     {
-      "name": "js/source.abe6d.js.map",
-      "size": 268995,
+      "name": "js/source.bd41b.js.map",
+      "size": 268986,
       "chunks": [
         0
       ],
@@ -448,10 +448,10 @@
         0
       ],
       "assets": [
-        "css/218ecd71fc2c4d3d21dd.04423.css",
-        "js/source.abe6d.js",
-        "css/218ecd71fc2c4d3d21dd.04423.css.map",
-        "js/source.abe6d.js.map"
+        "css/218ecd71fc2c4d3d21dd.0d65a.css",
+        "js/source.bd41b.js",
+        "css/218ecd71fc2c4d3d21dd.0d65a.css.map",
+        "js/source.bd41b.js.map"
       ],
       "children": {
       },
@@ -465,10 +465,10 @@
         0
       ],
       "assets": [
-        "css/218ecd71fc2c4d3d21dd.04423.css",
-        "js/source.abe6d.js",
-        "css/218ecd71fc2c4d3d21dd.04423.css.map",
-        "js/source.abe6d.js.map"
+        "css/218ecd71fc2c4d3d21dd.0d65a.css",
+        "js/source.bd41b.js",
+        "css/218ecd71fc2c4d3d21dd.0d65a.css.map",
+        "js/source.bd41b.js.map"
       ],
       "children": {
       },
@@ -482,17 +482,17 @@
       "rendered": true,
       "initial": true,
       "entry": true,
-      "size": 135499,
+      "size": 135495,
       "names": [
         "source"
       ],
       "files": [
-        "css/218ecd71fc2c4d3d21dd.04423.css",
-        "js/source.abe6d.js",
-        "css/218ecd71fc2c4d3d21dd.04423.css.map",
-        "js/source.abe6d.js.map"
+        "css/218ecd71fc2c4d3d21dd.0d65a.css",
+        "js/source.bd41b.js",
+        "css/218ecd71fc2c4d3d21dd.0d65a.css.map",
+        "js/source.bd41b.js.map"
       ],
-      "hash": "abe6d04fb9f28942d22e",
+      "hash": "bd41b9531b74358e9fb1",
       "siblings": [
       ],
       "parents": [
@@ -673,7 +673,7 @@
           "name": "./source/components/SectionHeader/index.js",
           "index": 27,
           "index2": 22,
-          "size": 727,
+          "size": 723,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -681,9 +681,9 @@
           "chunks": [
             0
           ],
-          "issuer": "/Users/vladimirkravchenko/WebstormProjects/react-trial-hometask/node_modules/babel-loader/lib/index.js!/Users/vladimirkravchenko/WebstormProjects/react-trial-hometask/source/components/ContactsSet/index.js",
-          "issuerId": 8,
-          "issuerName": "./source/components/ContactsSet/index.js",
+          "issuer": "/Users/vladimirkravchenko/WebstormProjects/react-trial-hometask/node_modules/babel-loader/lib/index.js!/Users/vladimirkravchenko/WebstormProjects/react-trial-hometask/source/components/SkillSet/index.js",
+          "issuerId": 15,
+          "issuerName": "./source/components/SkillSet/index.js",
           "issuerPath": [
             {
               "id": 36,
@@ -701,14 +701,14 @@
               "name": "./source/components/ProfileContent/index.js"
             },
             {
-              "id": 11,
-              "identifier": "/Users/vladimirkravchenko/WebstormProjects/react-trial-hometask/node_modules/babel-loader/lib/index.js!/Users/vladimirkravchenko/WebstormProjects/react-trial-hometask/source/components/ContentBottomRow/index.js",
-              "name": "./source/components/ContentBottomRow/index.js"
+              "id": 16,
+              "identifier": "/Users/vladimirkravchenko/WebstormProjects/react-trial-hometask/node_modules/babel-loader/lib/index.js!/Users/vladimirkravchenko/WebstormProjects/react-trial-hometask/source/components/ContentTopRow/index.js",
+              "name": "./source/components/ContentTopRow/index.js"
             },
             {
-              "id": 8,
-              "identifier": "/Users/vladimirkravchenko/WebstormProjects/react-trial-hometask/node_modules/babel-loader/lib/index.js!/Users/vladimirkravchenko/WebstormProjects/react-trial-hometask/source/components/ContactsSet/index.js",
-              "name": "./source/components/ContactsSet/index.js"
+              "id": 15,
+              "identifier": "/Users/vladimirkravchenko/WebstormProjects/react-trial-hometask/node_modules/babel-loader/lib/index.js!/Users/vladimirkravchenko/WebstormProjects/react-trial-hometask/source/components/SkillSet/index.js",
+              "name": "./source/components/SkillSet/index.js"
             }
           ],
           "failed": false,
@@ -760,7 +760,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 5,
-          "source": "\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.default = void 0;\n\nvar _react = _interopRequireDefault(require(\"react\"));\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n// Core\nclass SectionHeader extends _react.default.Component {\n  render() {\n    return _react.default.createElement(\"section\", {\n      className: \"sectionHeading\"\n    }, _react.default.createElement(\"h1\", null, _react.default.createElement(\"span\", {\n      className: \"sectionNumber\"\n    }, this.props.sectionNumber, \".\"), _react.default.createElement(\"span\", {\n      className: \"sectionName\"\n    }, this.props.sectionTitle)));\n  }\n\n}\n\nexports.default = SectionHeader;"
+          "source": "\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.default = void 0;\n\nvar _react = _interopRequireDefault(require(\"react\"));\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n// Core\nclass SectionHeader extends _react.default.Component {\n  render() {\n    return _react.default.createElement(\"div\", {\n      className: \"sectionHeading\"\n    }, _react.default.createElement(\"h1\", null, _react.default.createElement(\"span\", {\n      className: \"sectionNumber\"\n    }, this.props.sectionNumber, \".\"), _react.default.createElement(\"span\", {\n      className: \"sectionName\"\n    }, this.props.sectionTitle)));\n  }\n\n}\n\nexports.default = SectionHeader;"
         },
         {
           "id": 2,
@@ -3033,7 +3033,7 @@
       "name": "./source/components/SectionHeader/index.js",
       "index": 27,
       "index2": 22,
-      "size": 727,
+      "size": 723,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -3041,9 +3041,9 @@
       "chunks": [
         0
       ],
-      "issuer": "/Users/vladimirkravchenko/WebstormProjects/react-trial-hometask/node_modules/babel-loader/lib/index.js!/Users/vladimirkravchenko/WebstormProjects/react-trial-hometask/source/components/ContactsSet/index.js",
-      "issuerId": 8,
-      "issuerName": "./source/components/ContactsSet/index.js",
+      "issuer": "/Users/vladimirkravchenko/WebstormProjects/react-trial-hometask/node_modules/babel-loader/lib/index.js!/Users/vladimirkravchenko/WebstormProjects/react-trial-hometask/source/components/SkillSet/index.js",
+      "issuerId": 15,
+      "issuerName": "./source/components/SkillSet/index.js",
       "issuerPath": [
         {
           "id": 36,
@@ -3061,14 +3061,14 @@
           "name": "./source/components/ProfileContent/index.js"
         },
         {
-          "id": 11,
-          "identifier": "/Users/vladimirkravchenko/WebstormProjects/react-trial-hometask/node_modules/babel-loader/lib/index.js!/Users/vladimirkravchenko/WebstormProjects/react-trial-hometask/source/components/ContentBottomRow/index.js",
-          "name": "./source/components/ContentBottomRow/index.js"
+          "id": 16,
+          "identifier": "/Users/vladimirkravchenko/WebstormProjects/react-trial-hometask/node_modules/babel-loader/lib/index.js!/Users/vladimirkravchenko/WebstormProjects/react-trial-hometask/source/components/ContentTopRow/index.js",
+          "name": "./source/components/ContentTopRow/index.js"
         },
         {
-          "id": 8,
-          "identifier": "/Users/vladimirkravchenko/WebstormProjects/react-trial-hometask/node_modules/babel-loader/lib/index.js!/Users/vladimirkravchenko/WebstormProjects/react-trial-hometask/source/components/ContactsSet/index.js",
-          "name": "./source/components/ContactsSet/index.js"
+          "id": 15,
+          "identifier": "/Users/vladimirkravchenko/WebstormProjects/react-trial-hometask/node_modules/babel-loader/lib/index.js!/Users/vladimirkravchenko/WebstormProjects/react-trial-hometask/source/components/SkillSet/index.js",
+          "name": "./source/components/SkillSet/index.js"
         }
       ],
       "failed": false,
@@ -3120,7 +3120,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 5,
-      "source": "\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.default = void 0;\n\nvar _react = _interopRequireDefault(require(\"react\"));\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n// Core\nclass SectionHeader extends _react.default.Component {\n  render() {\n    return _react.default.createElement(\"section\", {\n      className: \"sectionHeading\"\n    }, _react.default.createElement(\"h1\", null, _react.default.createElement(\"span\", {\n      className: \"sectionNumber\"\n    }, this.props.sectionNumber, \".\"), _react.default.createElement(\"span\", {\n      className: \"sectionName\"\n    }, this.props.sectionTitle)));\n  }\n\n}\n\nexports.default = SectionHeader;"
+      "source": "\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.default = void 0;\n\nvar _react = _interopRequireDefault(require(\"react\"));\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n// Core\nclass SectionHeader extends _react.default.Component {\n  render() {\n    return _react.default.createElement(\"div\", {\n      className: \"sectionHeading\"\n    }, _react.default.createElement(\"h1\", null, _react.default.createElement(\"span\", {\n      className: \"sectionNumber\"\n    }, this.props.sectionNumber, \".\"), _react.default.createElement(\"span\", {\n      className: \"sectionName\"\n    }, this.props.sectionTitle)));\n  }\n\n}\n\nexports.default = SectionHeader;"
     },
     {
       "id": 2,
@@ -5220,33 +5220,6 @@
       },
       "assets": [
         {
-          "name": "icons-c566bb626c9412aec2582936a79e3196/android-chrome-512x512.png",
-          "size": 2367,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-167x167.png",
-          "size": 859,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-57x57.png",
-          "size": 490,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
           "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-114x114.png",
           "size": 679,
           "chunks": [
@@ -5256,8 +5229,8 @@
           "emitted": true
         },
         {
-          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-72x72.png",
-          "size": 551,
+          "name": "icons-c566bb626c9412aec2582936a79e3196/android-chrome-256x256.png",
+          "size": 1174,
           "chunks": [
           ],
           "chunkNames": [
@@ -5265,62 +5238,8 @@
           "emitted": true
         },
         {
-          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-144x144.png",
-          "size": 771,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-152x152.png",
-          "size": 824,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-180x180.png",
-          "size": 896,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-precomposed.png",
-          "size": 896,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-60x60.png",
-          "size": 494,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-120x120.png",
-          "size": 667,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-76x76.png",
-          "size": 575,
+          "name": "icons-c566bb626c9412aec2582936a79e3196/android-chrome-192x192.png",
+          "size": 953,
           "chunks": [
           ],
           "chunkNames": [
@@ -5346,8 +5265,8 @@
           "emitted": true
         },
         {
-          "name": "icons-c566bb626c9412aec2582936a79e3196/android-chrome-192x192.png",
-          "size": 953,
+          "name": "icons-c566bb626c9412aec2582936a79e3196/android-chrome-72x72.png",
+          "size": 551,
           "chunks": [
           ],
           "chunkNames": [
@@ -5355,8 +5274,8 @@
           "emitted": true
         },
         {
-          "name": "icons-c566bb626c9412aec2582936a79e3196/android-chrome-256x256.png",
-          "size": 1174,
+          "name": "icons-c566bb626c9412aec2582936a79e3196/android-chrome-96x96.png",
+          "size": 627,
           "chunks": [
           ],
           "chunkNames": [
@@ -5373,7 +5292,106 @@
           "emitted": true
         },
         {
-          "name": "icons-c566bb626c9412aec2582936a79e3196/android-chrome-72x72.png",
+          "name": "icons-c566bb626c9412aec2582936a79e3196/android-chrome-512x512.png",
+          "size": 2367,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-152x152.png",
+          "size": 824,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-76x76.png",
+          "size": 575,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-57x57.png",
+          "size": 490,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-precomposed.png",
+          "size": 896,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-144x144.png",
+          "size": 771,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-60x60.png",
+          "size": 494,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-167x167.png",
+          "size": 859,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-120x120.png",
+          "size": 667,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-180x180.png",
+          "size": 896,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon.png",
+          "size": 896,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-72x72.png",
           "size": 551,
           "chunks": [
           ],
@@ -5391,17 +5409,8 @@
           "emitted": true
         },
         {
-          "name": "icons-c566bb626c9412aec2582936a79e3196/android-chrome-96x96.png",
-          "size": 627,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon.png",
-          "size": 896,
+          "name": "icons-c566bb626c9412aec2582936a79e3196/favicon-32x32.png",
+          "size": 424,
           "chunks": [
           ],
           "chunkNames": [
@@ -5418,26 +5427,8 @@
           "emitted": true
         },
         {
-          "name": "icons-c566bb626c9412aec2582936a79e3196/favicon-32x32.png",
-          "size": 424,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
           "name": "icons-c566bb626c9412aec2582936a79e3196/favicon.ico",
           "size": 33310,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x920.png",
-          "size": 4385,
           "chunks": [
           ],
           "chunkNames": [
@@ -5481,8 +5472,35 @@
           "emitted": true
         },
         {
+          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x920.png",
+          "size": 4385,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
           "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-768x1004.png",
           "size": 5204,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1496x2048.png",
+          "size": 15923,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1182x2208.png",
+          "size": 14552,
           "chunks": [
           ],
           "chunkNames": [
@@ -5508,24 +5526,6 @@
           "emitted": true
         },
         {
-          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1182x2208.png",
-          "size": 14552,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1496x2048.png",
-          "size": 15923,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
           "name": "icons-c566bb626c9412aec2582936a79e3196/firefox_app_60x60.png",
           "size": 670,
           "chunks": [
@@ -5535,8 +5535,8 @@
           "emitted": true
         },
         {
-          "name": "icons-c566bb626c9412aec2582936a79e3196/firefox_app_512x512.png",
-          "size": 4888,
+          "name": "icons-c566bb626c9412aec2582936a79e3196/firefox_app_128x128.png",
+          "size": 1066,
           "chunks": [
           ],
           "chunkNames": [
@@ -5544,8 +5544,8 @@
           "emitted": true
         },
         {
-          "name": "icons-c566bb626c9412aec2582936a79e3196/firefox_app_128x128.png",
-          "size": 1066,
+          "name": "icons-c566bb626c9412aec2582936a79e3196/firefox_app_512x512.png",
+          "size": 4888,
           "chunks": [
           ],
           "chunkNames": [
@@ -5580,7 +5580,7 @@
           "emitted": true
         },
         {
-          "name": "iconstats-37e7fa1fb8ff65954524.json",
+          "name": "iconstats-191cceb2e4ef19c7a5f2.json",
           "size": 7583,
           "chunks": [
             0
@@ -5596,7 +5596,7 @@
             0
           ],
           "assets": [
-            "iconstats-37e7fa1fb8ff65954524.json"
+            "iconstats-191cceb2e4ef19c7a5f2.json"
           ],
           "children": {
           },
@@ -5610,7 +5610,7 @@
             0
           ],
           "assets": [
-            "iconstats-37e7fa1fb8ff65954524.json"
+            "iconstats-191cceb2e4ef19c7a5f2.json"
           ],
           "children": {
           },
@@ -5628,9 +5628,9 @@
           "names": [
           ],
           "files": [
-            "iconstats-37e7fa1fb8ff65954524.json"
+            "iconstats-191cceb2e4ef19c7a5f2.json"
           ],
-          "hash": "44ee69f54753a9c4869b",
+          "hash": "393de3f8450a5faa3348",
           "siblings": [
           ],
           "parents": [
@@ -5662,43 +5662,43 @@
               "errors": 0,
               "warnings": 0,
               "assets": [
-                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-167x167.png",
-                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon.png",
-                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-57x57.png",
-                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-114x114.png",
-                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-72x72.png",
-                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-144x144.png",
-                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-152x152.png",
-                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-180x180.png",
-                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-precomposed.png",
-                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-60x60.png",
-                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-120x120.png",
-                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-76x76.png",
+                "icons-c566bb626c9412aec2582936a79e3196/android-chrome-256x256.png",
+                "icons-c566bb626c9412aec2582936a79e3196/android-chrome-144x144.png",
+                "icons-c566bb626c9412aec2582936a79e3196/android-chrome-192x192.png",
                 "icons-c566bb626c9412aec2582936a79e3196/android-chrome-36x36.png",
                 "icons-c566bb626c9412aec2582936a79e3196/android-chrome-384x384.png",
-                "icons-c566bb626c9412aec2582936a79e3196/android-chrome-192x192.png",
-                "icons-c566bb626c9412aec2582936a79e3196/android-chrome-256x256.png",
-                "icons-c566bb626c9412aec2582936a79e3196/android-chrome-48x48.png",
                 "icons-c566bb626c9412aec2582936a79e3196/android-chrome-72x72.png",
-                "icons-c566bb626c9412aec2582936a79e3196/android-chrome-144x144.png",
                 "icons-c566bb626c9412aec2582936a79e3196/android-chrome-96x96.png",
+                "icons-c566bb626c9412aec2582936a79e3196/android-chrome-48x48.png",
                 "icons-c566bb626c9412aec2582936a79e3196/android-chrome-512x512.png",
-                "icons-c566bb626c9412aec2582936a79e3196/favicon-16x16.png",
+                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-152x152.png",
+                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-76x76.png",
+                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-57x57.png",
+                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-precomposed.png",
+                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-144x144.png",
+                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-60x60.png",
+                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-167x167.png",
+                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-120x120.png",
+                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-180x180.png",
+                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon.png",
+                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-72x72.png",
+                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-114x114.png",
                 "icons-c566bb626c9412aec2582936a79e3196/favicon-32x32.png",
+                "icons-c566bb626c9412aec2582936a79e3196/favicon-16x16.png",
                 "icons-c566bb626c9412aec2582936a79e3196/favicon.ico",
-                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x920.png",
                 "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-320x460.png",
                 "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x1096.png",
                 "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-750x1294.png",
                 "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-748x1024.png",
+                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x920.png",
                 "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-768x1004.png",
+                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1496x2048.png",
+                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1182x2208.png",
                 "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1242x2148.png",
                 "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1536x2008.png",
-                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1182x2208.png",
-                "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1496x2048.png",
                 "icons-c566bb626c9412aec2582936a79e3196/firefox_app_60x60.png",
-                "icons-c566bb626c9412aec2582936a79e3196/firefox_app_512x512.png",
                 "icons-c566bb626c9412aec2582936a79e3196/firefox_app_128x128.png",
+                "icons-c566bb626c9412aec2582936a79e3196/firefox_app_512x512.png",
                 "icons-c566bb626c9412aec2582936a79e3196/manifest.json",
                 "icons-c566bb626c9412aec2582936a79e3196/manifest.webapp",
                 "icons-c566bb626c9412aec2582936a79e3196/.cache"
@@ -5719,7 +5719,7 @@
                 "ModuleConcatenation bailout: Module is not an ECMAScript module"
               ],
               "depth": 0,
-              "source": "module.exports = {\"outputFilePrefix\":\"icons-c566bb626c9412aec2582936a79e3196/\",\"html\":[\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"57x57\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-57x57.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"60x60\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-60x60.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"72x72\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-72x72.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"76x76\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-76x76.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"114x114\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-114x114.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"120x120\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-120x120.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"144x144\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-144x144.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"152x152\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-152x152.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"180x180\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-180x180.png\\\">\",\"<meta name=\\\"apple-mobile-web-app-capable\\\" content=\\\"yes\\\">\",\"<meta name=\\\"apple-mobile-web-app-status-bar-style\\\" content=\\\"black-translucent\\\">\",\"<meta name=\\\"apple-mobile-web-app-title\\\" content=\\\"react-trial-hometask\\\">\",\"<meta name=\\\"mobile-web-app-capable\\\" content=\\\"yes\\\">\",\"<meta name=\\\"theme-color\\\" content=\\\"#fff\\\">\",\"<meta name=\\\"application-name\\\" content=\\\"react-trial-hometask\\\">\",\"<link rel=\\\"icon\\\" type=\\\"image/png\\\" sizes=\\\"32x32\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/favicon-32x32.png\\\">\",\"<link rel=\\\"icon\\\" type=\\\"image/png\\\" sizes=\\\"16x16\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/favicon-16x16.png\\\">\",\"<link rel=\\\"shortcut icon\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/favicon.ico\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-320x460.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x920.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x1096.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-750x1294.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 414px) and (device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1182x2208.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1242x2148.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-748x1024.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-768x1004.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1496x2048.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1536x2008.png\\\">\"],\"files\":[\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-167x167.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-57x57.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-114x114.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-72x72.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-144x144.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-152x152.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-180x180.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-precomposed.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-60x60.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-120x120.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-76x76.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-36x36.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-384x384.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-192x192.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-256x256.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-48x48.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-72x72.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-144x144.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-96x96.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-512x512.png\",\"icons-c566bb626c9412aec2582936a79e3196/favicon-16x16.png\",\"icons-c566bb626c9412aec2582936a79e3196/favicon-32x32.png\",\"icons-c566bb626c9412aec2582936a79e3196/favicon.ico\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x920.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-320x460.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x1096.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-750x1294.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-748x1024.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-768x1004.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1242x2148.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1536x2008.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1182x2208.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1496x2048.png\",\"icons-c566bb626c9412aec2582936a79e3196/firefox_app_60x60.png\",\"icons-c566bb626c9412aec2582936a79e3196/firefox_app_512x512.png\",\"icons-c566bb626c9412aec2582936a79e3196/firefox_app_128x128.png\",\"icons-c566bb626c9412aec2582936a79e3196/manifest.json\",\"icons-c566bb626c9412aec2582936a79e3196/manifest.webapp\"]}"
+              "source": "module.exports = {\"outputFilePrefix\":\"icons-c566bb626c9412aec2582936a79e3196/\",\"html\":[\"<meta name=\\\"mobile-web-app-capable\\\" content=\\\"yes\\\">\",\"<meta name=\\\"theme-color\\\" content=\\\"#fff\\\">\",\"<meta name=\\\"application-name\\\" content=\\\"react-trial-hometask\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"57x57\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-57x57.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"60x60\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-60x60.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"72x72\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-72x72.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"76x76\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-76x76.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"114x114\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-114x114.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"120x120\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-120x120.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"144x144\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-144x144.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"152x152\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-152x152.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"180x180\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-180x180.png\\\">\",\"<meta name=\\\"apple-mobile-web-app-capable\\\" content=\\\"yes\\\">\",\"<meta name=\\\"apple-mobile-web-app-status-bar-style\\\" content=\\\"black-translucent\\\">\",\"<meta name=\\\"apple-mobile-web-app-title\\\" content=\\\"react-trial-hometask\\\">\",\"<link rel=\\\"icon\\\" type=\\\"image/png\\\" sizes=\\\"32x32\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/favicon-32x32.png\\\">\",\"<link rel=\\\"icon\\\" type=\\\"image/png\\\" sizes=\\\"16x16\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/favicon-16x16.png\\\">\",\"<link rel=\\\"shortcut icon\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/favicon.ico\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-320x460.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x920.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x1096.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-750x1294.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 414px) and (device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1182x2208.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1242x2148.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-748x1024.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-768x1004.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1496x2048.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1536x2008.png\\\">\"],\"files\":[\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-256x256.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-144x144.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-192x192.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-36x36.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-384x384.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-72x72.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-96x96.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-48x48.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-512x512.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-152x152.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-76x76.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-57x57.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-precomposed.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-144x144.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-60x60.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-167x167.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-120x120.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-180x180.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-72x72.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-114x114.png\",\"icons-c566bb626c9412aec2582936a79e3196/favicon-32x32.png\",\"icons-c566bb626c9412aec2582936a79e3196/favicon-16x16.png\",\"icons-c566bb626c9412aec2582936a79e3196/favicon.ico\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-320x460.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x1096.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-750x1294.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-748x1024.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x920.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-768x1004.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1496x2048.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1182x2208.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1242x2148.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1536x2008.png\",\"icons-c566bb626c9412aec2582936a79e3196/firefox_app_60x60.png\",\"icons-c566bb626c9412aec2582936a79e3196/firefox_app_128x128.png\",\"icons-c566bb626c9412aec2582936a79e3196/firefox_app_512x512.png\",\"icons-c566bb626c9412aec2582936a79e3196/manifest.json\",\"icons-c566bb626c9412aec2582936a79e3196/manifest.webapp\"]}"
             }
           ],
           "filteredModules": 0,
@@ -5759,43 +5759,43 @@
           "errors": 0,
           "warnings": 0,
           "assets": [
-            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-167x167.png",
-            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon.png",
-            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-57x57.png",
-            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-114x114.png",
-            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-72x72.png",
-            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-144x144.png",
-            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-152x152.png",
-            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-180x180.png",
-            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-precomposed.png",
-            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-60x60.png",
-            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-120x120.png",
-            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-76x76.png",
+            "icons-c566bb626c9412aec2582936a79e3196/android-chrome-256x256.png",
+            "icons-c566bb626c9412aec2582936a79e3196/android-chrome-144x144.png",
+            "icons-c566bb626c9412aec2582936a79e3196/android-chrome-192x192.png",
             "icons-c566bb626c9412aec2582936a79e3196/android-chrome-36x36.png",
             "icons-c566bb626c9412aec2582936a79e3196/android-chrome-384x384.png",
-            "icons-c566bb626c9412aec2582936a79e3196/android-chrome-192x192.png",
-            "icons-c566bb626c9412aec2582936a79e3196/android-chrome-256x256.png",
-            "icons-c566bb626c9412aec2582936a79e3196/android-chrome-48x48.png",
             "icons-c566bb626c9412aec2582936a79e3196/android-chrome-72x72.png",
-            "icons-c566bb626c9412aec2582936a79e3196/android-chrome-144x144.png",
             "icons-c566bb626c9412aec2582936a79e3196/android-chrome-96x96.png",
+            "icons-c566bb626c9412aec2582936a79e3196/android-chrome-48x48.png",
             "icons-c566bb626c9412aec2582936a79e3196/android-chrome-512x512.png",
-            "icons-c566bb626c9412aec2582936a79e3196/favicon-16x16.png",
+            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-152x152.png",
+            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-76x76.png",
+            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-57x57.png",
+            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-precomposed.png",
+            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-144x144.png",
+            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-60x60.png",
+            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-167x167.png",
+            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-120x120.png",
+            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-180x180.png",
+            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon.png",
+            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-72x72.png",
+            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-114x114.png",
             "icons-c566bb626c9412aec2582936a79e3196/favicon-32x32.png",
+            "icons-c566bb626c9412aec2582936a79e3196/favicon-16x16.png",
             "icons-c566bb626c9412aec2582936a79e3196/favicon.ico",
-            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x920.png",
             "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-320x460.png",
             "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x1096.png",
             "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-750x1294.png",
             "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-748x1024.png",
+            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x920.png",
             "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-768x1004.png",
+            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1496x2048.png",
+            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1182x2208.png",
             "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1242x2148.png",
             "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1536x2008.png",
-            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1182x2208.png",
-            "icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1496x2048.png",
             "icons-c566bb626c9412aec2582936a79e3196/firefox_app_60x60.png",
-            "icons-c566bb626c9412aec2582936a79e3196/firefox_app_512x512.png",
             "icons-c566bb626c9412aec2582936a79e3196/firefox_app_128x128.png",
+            "icons-c566bb626c9412aec2582936a79e3196/firefox_app_512x512.png",
             "icons-c566bb626c9412aec2582936a79e3196/manifest.json",
             "icons-c566bb626c9412aec2582936a79e3196/manifest.webapp",
             "icons-c566bb626c9412aec2582936a79e3196/.cache"
@@ -5816,7 +5816,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 0,
-          "source": "module.exports = {\"outputFilePrefix\":\"icons-c566bb626c9412aec2582936a79e3196/\",\"html\":[\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"57x57\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-57x57.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"60x60\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-60x60.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"72x72\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-72x72.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"76x76\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-76x76.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"114x114\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-114x114.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"120x120\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-120x120.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"144x144\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-144x144.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"152x152\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-152x152.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"180x180\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-180x180.png\\\">\",\"<meta name=\\\"apple-mobile-web-app-capable\\\" content=\\\"yes\\\">\",\"<meta name=\\\"apple-mobile-web-app-status-bar-style\\\" content=\\\"black-translucent\\\">\",\"<meta name=\\\"apple-mobile-web-app-title\\\" content=\\\"react-trial-hometask\\\">\",\"<meta name=\\\"mobile-web-app-capable\\\" content=\\\"yes\\\">\",\"<meta name=\\\"theme-color\\\" content=\\\"#fff\\\">\",\"<meta name=\\\"application-name\\\" content=\\\"react-trial-hometask\\\">\",\"<link rel=\\\"icon\\\" type=\\\"image/png\\\" sizes=\\\"32x32\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/favicon-32x32.png\\\">\",\"<link rel=\\\"icon\\\" type=\\\"image/png\\\" sizes=\\\"16x16\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/favicon-16x16.png\\\">\",\"<link rel=\\\"shortcut icon\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/favicon.ico\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-320x460.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x920.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x1096.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-750x1294.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 414px) and (device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1182x2208.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1242x2148.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-748x1024.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-768x1004.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1496x2048.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1536x2008.png\\\">\"],\"files\":[\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-167x167.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-57x57.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-114x114.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-72x72.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-144x144.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-152x152.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-180x180.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-precomposed.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-60x60.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-120x120.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-76x76.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-36x36.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-384x384.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-192x192.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-256x256.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-48x48.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-72x72.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-144x144.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-96x96.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-512x512.png\",\"icons-c566bb626c9412aec2582936a79e3196/favicon-16x16.png\",\"icons-c566bb626c9412aec2582936a79e3196/favicon-32x32.png\",\"icons-c566bb626c9412aec2582936a79e3196/favicon.ico\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x920.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-320x460.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x1096.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-750x1294.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-748x1024.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-768x1004.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1242x2148.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1536x2008.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1182x2208.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1496x2048.png\",\"icons-c566bb626c9412aec2582936a79e3196/firefox_app_60x60.png\",\"icons-c566bb626c9412aec2582936a79e3196/firefox_app_512x512.png\",\"icons-c566bb626c9412aec2582936a79e3196/firefox_app_128x128.png\",\"icons-c566bb626c9412aec2582936a79e3196/manifest.json\",\"icons-c566bb626c9412aec2582936a79e3196/manifest.webapp\"]}"
+          "source": "module.exports = {\"outputFilePrefix\":\"icons-c566bb626c9412aec2582936a79e3196/\",\"html\":[\"<meta name=\\\"mobile-web-app-capable\\\" content=\\\"yes\\\">\",\"<meta name=\\\"theme-color\\\" content=\\\"#fff\\\">\",\"<meta name=\\\"application-name\\\" content=\\\"react-trial-hometask\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"57x57\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-57x57.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"60x60\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-60x60.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"72x72\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-72x72.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"76x76\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-76x76.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"114x114\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-114x114.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"120x120\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-120x120.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"144x144\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-144x144.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"152x152\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-152x152.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"180x180\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-180x180.png\\\">\",\"<meta name=\\\"apple-mobile-web-app-capable\\\" content=\\\"yes\\\">\",\"<meta name=\\\"apple-mobile-web-app-status-bar-style\\\" content=\\\"black-translucent\\\">\",\"<meta name=\\\"apple-mobile-web-app-title\\\" content=\\\"react-trial-hometask\\\">\",\"<link rel=\\\"icon\\\" type=\\\"image/png\\\" sizes=\\\"32x32\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/favicon-32x32.png\\\">\",\"<link rel=\\\"icon\\\" type=\\\"image/png\\\" sizes=\\\"16x16\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/favicon-16x16.png\\\">\",\"<link rel=\\\"shortcut icon\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/favicon.ico\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-320x460.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x920.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x1096.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-750x1294.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 414px) and (device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1182x2208.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1242x2148.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-748x1024.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-768x1004.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1496x2048.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-trial-hometask/icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1536x2008.png\\\">\"],\"files\":[\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-256x256.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-144x144.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-192x192.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-36x36.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-384x384.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-72x72.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-96x96.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-48x48.png\",\"icons-c566bb626c9412aec2582936a79e3196/android-chrome-512x512.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-152x152.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-76x76.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-57x57.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-precomposed.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-144x144.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-60x60.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-167x167.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-120x120.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-180x180.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-72x72.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-icon-114x114.png\",\"icons-c566bb626c9412aec2582936a79e3196/favicon-32x32.png\",\"icons-c566bb626c9412aec2582936a79e3196/favicon-16x16.png\",\"icons-c566bb626c9412aec2582936a79e3196/favicon.ico\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-320x460.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x1096.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-750x1294.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-748x1024.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-640x920.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-768x1004.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1496x2048.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1182x2208.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1242x2148.png\",\"icons-c566bb626c9412aec2582936a79e3196/apple-touch-startup-image-1536x2008.png\",\"icons-c566bb626c9412aec2582936a79e3196/firefox_app_60x60.png\",\"icons-c566bb626c9412aec2582936a79e3196/firefox_app_128x128.png\",\"icons-c566bb626c9412aec2582936a79e3196/firefox_app_512x512.png\",\"icons-c566bb626c9412aec2582936a79e3196/manifest.json\",\"icons-c566bb626c9412aec2582936a79e3196/manifest.webapp\"]}"
         }
       ],
       "filteredModules": 0,
