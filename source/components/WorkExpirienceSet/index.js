@@ -12,6 +12,7 @@ const Mark = (props) => {
     for (var i = 0; i < props.maxValue ; i++) {
          stars.push(i<props.realValue);
     }
+
     return (
         <ul>
             {stars.map((active, index)=> {
@@ -31,6 +32,7 @@ const Skill = (props) => {
 }
 
 const Skills = (props) => {
+
     return (
         <>
             {
@@ -44,7 +46,7 @@ const Skills = (props) => {
 
 export default class SkillsSet extends React.Component {
     render() {
-        const skillsData = [
+        const skills = [
             {name:"Химия", stars:7},
             {name:"Физика", stars:9},
             {name:"Ядерная инженерия", stars:2},
@@ -54,7 +56,7 @@ export default class SkillsSet extends React.Component {
         return (
             <section className="skillset">
                 <SectionHeader sectionNumber="01" sectionTitle="Набор скилов"/>
-                <Skills data={skillsData}/>
+                <Skills data={skills}/>
             </section>
         )
     }
