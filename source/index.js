@@ -1,15 +1,13 @@
 // Core
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from "react";
+import ReactDOM from "react-dom";
 
 // Theme
-import './theme/init';
+import "./theme/init";
 
 // Pages
 import Profile from "./Pages/Profile";
 
-const start = (
-    <Profile/>
-);
+const start = <Profile />;
 
-ReactDOM.render(start, document.getElementById('app'));
+ReactDOM.render(start, document.getElementById("app"));

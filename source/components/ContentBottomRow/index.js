@@ -1,14 +1,16 @@
-import React from 'react';
-import SectionHeader from "../SectionHeader";
+// Core
+import React from "react";
+
+import EducationSet from "../EducationSet";
+import ContactsSet from "../ContactsSet";
 
 export default class ContentBottomRow extends React.Component {
-    render() {
+    render () {
         return (
-            <div className="bottomRow">
-
-                <SectionHeader sectionNumber="03" sectionTitle="Контакты"/>
-                <SectionHeader sectionNumber="02" sectionTitle="Образование"/>
+            <div className = 'bottomRow'>
+                <ContactsSet index = '03' title = 'Контакты' />
+                <EducationSet index = '04' title = 'Образование' />
             </div>
-        )
+        );
     }
 }

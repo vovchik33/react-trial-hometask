@@ -1,15 +1,16 @@
-import React from 'react';
-import SectionHeader from "../SectionHeader";
+// Core
+import React from "react";
+
 import SkillsSet from "../SkillSet";
 import WorksExpirienceSet from "../WorksExpirienceSet";
 
 export default class ContentTopRow extends React.Component {
-    render() {
+    render () {
         return (
-            <div className="topRow">
-                <SkillsSet titleIndex="01" title="Набор скилов"/>
-                <WorksExpirienceSet titleIndex="02" title="Опыт работы"/>
+            <div className = 'topRow'>
+                <SkillsSet index = '01' title = 'Набор скилов' />
+                <WorksExpirienceSet index = '02' title = 'Опыт работы' />
             </div>
-        )
+        );
     }
 }

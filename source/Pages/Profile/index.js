@@ -1,16 +1,16 @@
-import React from 'react';
-import { hot } from 'react-hot-loader';
+import React from "react";
+import { hot } from "react-hot-loader";
 import ProfileHeader from "../../components/ProfileHeader";
-import {ProfileContent} from "../../components/ProfileContent";
+import { ProfileContent } from "../../components/ProfileContent";
 
 @hot(module)
 export default class Profile extends React.Component {
-    render() {
+    render () {
         return (
-            <div className="profile">
-                <ProfileHeader/>
-                <ProfileContent/>
+            <div className = 'profile'>
+                <ProfileHeader />
+                <ProfileContent />
             </div>
-        )
+        );
     }
 }

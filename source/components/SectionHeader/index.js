@@ -1,14 +1,19 @@
-import React from 'react';
+// Core
+import React from "react";
 
 export default class SectionHeader extends React.Component {
-    render() {
+    render () {
         return (
-            <section className="sectionHeading">
+            <section className = 'sectionHeading'>
                 <h1>
-                    <span className="sectionNumber">{this.props.sectionNumber}.</span>
-                    <span className="sectionName">{this.props.sectionTitle}</span>
+                    <span className = 'sectionNumber'>
+                        {this.props.sectionNumber}.
+                    </span>
+                    <span className = 'sectionName'>
+                        {this.props.sectionTitle}
+                    </span>
                 </h1>
             </section>
-        )
+        );
     }
 }
