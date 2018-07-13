@@ -4,7 +4,7 @@ import React from "react";
 export default class SectionHeader extends React.Component {
     render () {
         return (
-            <section className = 'sectionHeading'>
+            <div className = 'sectionHeading'>
                 <h1>
                     <span className = 'sectionNumber'>
                         {this.props.sectionNumber}.
@@ -13,7 +13,7 @@ export default class SectionHeader extends React.Component {
                         {this.props.sectionTitle}
                     </span>
                 </h1>
-            </section>
+            </div>
         );
     }
 }
