@@ -1,9 +1,9 @@
 // Core
 import React from "react";
 
-import ContentTopRow from "../ContentTopRow";
-import ContentBottomRow from "../ContentBottomRow";
-import FooterRow from "../FooterRow";
+import ContentTopRow from "../rows/ContentTopRow";
+import ContentBottomRow from "../rows/ContentBottomRow";
+import FooterRow from "../rows/FooterRow";
 
 export class ProfileContent extends React.Component {
     render () {
