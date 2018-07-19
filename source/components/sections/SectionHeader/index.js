@@ -2,14 +2,14 @@
 import React from "react";
 
 export default class SectionHeader extends React.Component {
-    render() {
+    render () {
         return (
-            <div className='sectionHeading'>
+            <div className = 'sectionHeading'>
                 <h1>
-                    <span className='sectionNumber'>
+                    <span className = 'sectionNumber'>
                         {this.props.sectionNumber}.
                     </span>
-                    <span className='sectionName'>
+                    <span className = 'sectionName'>
                         {this.props.sectionTitle}
                     </span>
                 </h1>

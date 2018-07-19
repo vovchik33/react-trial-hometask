@@ -8,11 +8,11 @@ import EduPlaceList from "../../common/EduPlaceList";
 import educationSetData from "../../../theme/assets/data/education";
 
 export default class EducationSection extends React.Component {
-    render() {
+    render () {
         return (
-            <section className='education'>
-                <SectionHeader sectionNumber='04' sectionTitle='Образование' />
-                <EduPlaceList data={educationSetData} />
+            <section className = 'education'>
+                <SectionHeader sectionNumber = '04' sectionTitle = 'Образование' />
+                <EduPlaceList data = { educationSetData } />
             </section>
         );
     }

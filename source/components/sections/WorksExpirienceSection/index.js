@@ -8,11 +8,11 @@ import WorkList from "../../common/WorkList";
 import workSetData from "../../../theme/assets/data/experience";
 
 export default class WorksExpirienceSet extends React.Component {
-    render() {
+    render () {
         return (
-            <section className='worksset'>
-                <SectionHeader sectionNumber='02' sectionTitle='Опыт работы' />
-                <WorkList data={workSetData} />
+            <section className = 'worksset'>
+                <SectionHeader sectionNumber = '02' sectionTitle = 'Опыт работы' />
+                <WorkList data = { workSetData } />
             </section>
         );
     }

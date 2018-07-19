@@ -1,7 +1,7 @@
 // Core
-import React from 'react';
+import React from "react";
 
-import Work from './Work';
+import Work from "./Work";
 
 export default (props) => {
     const { data } = props;
@@ -11,20 +11,19 @@ export default (props) => {
             company = "без имени",
             location = "неизвестно",
             period = "не указан",
-            position = ""
+            position = "",
         } = item;
+
         return (
             <Work
-                key={id}
-                company={company}
-                location={location}
-                period={period}
-                position={position}
+                company = { company }
+                key = { id }
+                location = { location }
+                period = { period }
+                position = { position }
             />
         );
-    })
-    
-    return (
-        <>{workListJSX}</>
-    );
+    });
+
+    return <>{workListJSX}</>;
 };

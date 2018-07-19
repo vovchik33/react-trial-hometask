@@ -8,11 +8,11 @@ import SkillList from "../../common/SkillList";
 import skillSetData from "../../../theme/assets/data/skillset";
 
 export default class SkillsSection extends React.Component {
-    render() {
+    render () {
         return (
-            <section className='skillset'>
-                <SectionHeader sectionNumber='01' sectionTitle='Набор скилов' />
-                <SkillList data={skillSetData} />
+            <section className = 'skillset'>
+                <SectionHeader sectionNumber = '01' sectionTitle = 'Набор скилов' />
+                <SkillList data = { skillSetData } />
             </section>
         );
     }

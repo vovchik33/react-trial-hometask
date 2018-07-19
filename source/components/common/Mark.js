@@ -1,7 +1,7 @@
 // Core
-import React from 'react';
+import React from "react";
 
-import Point from './Point';
+import Point from "./Point";
 
 export default (props) => {
     const stars = [];
@@ -12,10 +12,8 @@ export default (props) => {
     }
 
     const starsJSX = stars.map((active, index) => {
-        return <Point key={index} isActive={active} />;
+        return <Point isActive = { active } key = { index } />;
     });
 
-    return (
-        <ul>{starsJSX}</ul>
-    );
+    return <ul>{starsJSX}</ul>;
 };
