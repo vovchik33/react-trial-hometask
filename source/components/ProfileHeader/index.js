@@ -9,7 +9,7 @@ export default class ProfileHeader extends React.Component {
         return (
             <div className = 'header'>
                 <div>
-                    <h1>Илон Musk</h1>
+                    <h1>Илон Mаск</h1>
                     <span>
                         Предприниматель, изобретатель, инженер, инвестор
                     </span>
